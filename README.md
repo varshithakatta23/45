@@ -5,7 +5,7 @@ OVERVIEW OF THE COURSE
 - Why Machine Learning?
 - Traditional Approach VS Machine Learning Approach
   1. Traditional Approach
-  2. Machine Learning Approach
+  2. Machine Learning Approach 
 
 #INTRODUCTION TO MACHINE LEARNING
 - MACHINE LEARNING
