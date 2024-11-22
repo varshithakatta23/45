@@ -159,7 +159,7 @@ OVERVIEW OF THE COURSE
 
   | Serial no | Title | LINK |
 | ------ | ----- | ----- |
-| 1 | PYTHON PROGRAMS | Third Column |
+| 1 | PYTHON PROGRAMS | LINK |
 | 2 | NUMPY EXERCISES | Third Column |
 | 3 | PANDAS EXERCISES | Third Column |
 
